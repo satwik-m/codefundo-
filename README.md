@@ -1,5 +1,5 @@
 # codefundo_project
-## Our idea is to build a mobile app for disaster management about tsunamis. ##
+## Our idea is to build a mobile app for disaster management during tsunamis. ##
 
 # Features:
 # 1. Prediction:
