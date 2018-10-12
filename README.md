@@ -1,4 +1,5 @@
 # codefundo_project
+## Heading 2 ##
 Our idea is to build a mobile app.
 
 # Features:
