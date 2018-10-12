@@ -1,6 +1,5 @@
 # codefundo_project
-## Heading 2 ##
-Our idea is to build a mobile app.
+## Our idea is to build a mobile app. ##
 
 # Features:
 # 1. Prediction:
